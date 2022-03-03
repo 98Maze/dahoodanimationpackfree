@@ -1,5 +1,15 @@
-     -- // Notifaction
-            
+     -- // Notifactions
+            game.StarterGui:SetCore("SendNotification", {
+            Title = "Da hood free animation pack v2";
+            Text = "Free animation pack v2";
+            Duration = 30;
+          })
+
+            game.StarterGui:SetCore("SendNotification", {
+            Title = "Join the discord!";
+            Text = "JOIN DISCORD FOR UPDATES AND MORE SCRIPTS! : discord.gg/wpV3Nx3mjw ";
+            Duration = 10000000;
+          })
 
 
 
