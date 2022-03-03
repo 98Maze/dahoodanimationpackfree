@@ -1,7 +1,7 @@
      -- // Notifactions
             game.StarterGui:SetCore("SendNotification", {
             Title = "Da hood free animation pack v2";
-            Text = "Free animation pack v2";
+            Text = "Free animation pack v2 has loaded!";
             Duration = 30;
           })
 
