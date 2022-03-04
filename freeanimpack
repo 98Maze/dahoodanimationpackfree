@@ -7,9 +7,9 @@
 
             game.StarterGui:SetCore("SendNotification", {
             Title = "Join the discord!";
-            Text = "JOIN DISCORD FOR UPDATES AND MORE SCRIPTS! THE DISCORD LINK HAS BEEN COPIED TO YOUR CLIPBOARD: discord.gg/wpV3Nx3mjw ";
+            Text = "Thank you for using the script, join our discord. : discord.gg/wpV3Nx3mjw";
             Duration = 10000000;
-             setclipboard('https://discord.gg/wpV3Nx3mjw')
+            setclipbaord('https://discord.gg/wpV3Nx3mjw')
           })
 
 
