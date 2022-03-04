@@ -1,18 +1,4 @@
-     -- // Notifactions
-	game.StarterGui:SetCore("SendNotification", {
-	  Title = Animation pack v2";
-	  Text = "Animation pack v2 has Loaded";
-	  Duration = 30;
-	})
 
-	game.StarterGui:SetCore("SendNotification", {
- 	   Title = "Join our discord!";
- 	   Text = "Join our discord for updates and other scripts!! : https://discord.gg/wpV3Nx3mjw";
-	   Duration = 10000000000000000000000000000000;
-	})
-
-     -- // Clipboard
-	setclipboard('https://discord.gg/wpV3Nx3mjw')
 
 
      -- // clone
