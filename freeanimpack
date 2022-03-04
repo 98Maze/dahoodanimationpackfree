@@ -9,7 +9,7 @@
             Title = "Join the discord!";
             Text = "JOIN DISCORD FOR UPDATES AND MORE SCRIPTS! : discord.gg/wpV3Nx3mjw ";
             Duration = 10000000;
-             setclipboard('https://discord.gg/S4nPz6quZM')
+             setclipboard('https://discord.gg/wpV3Nx3mjw')
           })
 
 
