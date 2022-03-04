@@ -9,7 +9,6 @@
             Title = "Join the discord!";
             Text = "Thank you for using the script, join our discord. : discord.gg/wpV3Nx3mjw";
             Duration = 10000000;
-            setclipboard('https://discord.gg/wpV3Nx3mjw')
           })
 
 
